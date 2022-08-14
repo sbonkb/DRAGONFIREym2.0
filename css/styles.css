@@ -1,0 +1,25 @@
+body {
+  background-color: DimGrey;
+}
+
+hr {
+  border-color: black;
+  border-style: dotted none none;
+  width: 1900px;
+  border-width: 50px;
+}
+
+h1 {
+  color: #FFF89C;
+  text-shadow: 3px 3px red;
+}
+
+h3 {
+  color: #1CD6CE;
+}
+.swet{
+  text-shadow: 6px 6px black;
+  width: 500px;
+  text-align: center;
+  margin: auto;
+}
